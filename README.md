@@ -1,5 +1,5 @@
 # rpgmaker-twitter-timeline-test
-twitterのタイムラインでrpgツクールmvをプレイするためのテスト
+・twitterのタイムラインでrpgツクールmvをプレイするためのテスト
 
 made with RPGツクールMV  
 ©2015 KADOKAWA CORPORATION./YOJI OJIMA  
